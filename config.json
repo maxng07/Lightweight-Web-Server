@@ -1,7 +1,7 @@
 {
 	"Address"	: "127.0.0.1",
 	"Port"		: "8888",
-	"Dir"		: "/Users/maxng/go/learning/encryption/ProjectEnigma/wasm",
+	"Dir"		: "/",
 	"Tmpfile"	: ""
 
 }
