@@ -18,16 +18,16 @@ var (
 	Port		= ""
 	Dir 		= ""
 	Tmpfile		= ""		
-	c 			Config
+	c 		Config
 )
 
 // struct for loading configuration information
 type Config struct {
 
     Address             string
-    Port	            string
-    Dir 				string
-    Tmpfile				string
+    Port	        string
+    Dir 		string
+    Tmpfile		string
 }
 
 func init() {
