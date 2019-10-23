@@ -13,4 +13,5 @@ The essential config.json informations needed are
 2. TCP Port number
 3. Default Directory for the Web Server to serve out contents (html, js, wasm, images)
 
-
+This is a graphical view of FireFox Web Browser accessing TED-GUI off LWS. 
+<img src="https://github.com/maxng07/Lightweight-Web-Server/blob/master/graphics/webserver2.png">
