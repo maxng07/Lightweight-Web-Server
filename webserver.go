@@ -16,8 +16,7 @@ var (
 	ConfigFile	= "config.json"
 	Address		= ""
 	Port		= ""
-	Dir 		= ""
-	Tmpfile		= ""		
+	Dir 		= ""	
 	c 		Config
 )
 
