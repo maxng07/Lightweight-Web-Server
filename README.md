@@ -1,5 +1,5 @@
 # Lightweight-Web-Server /LWS
-A Lightweight Web Server implemented in GO to serve out html, wasm, js or any other content. Additional logic can be added as needed.
+A Lightweight Web Server implemented in GO to serve out html, wasm, js or any other content including a Web Server for HTTP Adaptive Bit Rate streaming like Apple HLS. Additional logic can be added as needed.
 
 LWS can be used with <a href="https://github.com/maxng07/ted-gui"> TED-GUI </a> on either locally or in the Cloud, and recognises wasm and will set Content Type as "Application/WASM". As more functionality is needed, it can be added to LWS. 
 
